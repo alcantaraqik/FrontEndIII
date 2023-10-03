@@ -1,7 +1,7 @@
 # FrontEndIII
 <h2>
   Alunos: Matheus Henrique da Silva Alcantara <br>
-          Raphael Mathias
+          Rafhael Mathias
 </h2>
 
 <h1>Controle de Vendas</h1>

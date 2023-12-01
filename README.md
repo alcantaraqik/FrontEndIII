@@ -1,7 +1,7 @@
 # BackEndIII
 <h2>
   Alunos: Matheus Henrique da Silva Alcantara <br>
-          Rafhael Mathias
+          Rafhael Matias
 </h2>
 
 <h1>Controle de Vendas</h1>
